@@ -30,7 +30,7 @@ SQLite, Python, Seaborn, Matplotlib
 ```
 ## Setup
 ```
-1. Download the dataset from the link given and place it as 'data/roundabouts.csv'
+1. Download the dataset from the link given and place it as 'data/roundabouts.csv' and change the pathname in the init.py file.
 2. Run init.py to set up the database and import the data from the dataset.
 3. script.py contains the data handling.
 4. visualisation.py is used to plot graphs.
