@@ -17,6 +17,10 @@ I found out that the percentage of non-standard roundabouts is the highest in Am
 
 A chi-square test of independence confirmed this association is statistically significant (χ²=1647.26, df=4, p<0.001), meaning the probability of observing this distribution by chance, if country had no effect on roundabout type, is essentially zero.
 
+<img width="640" height="480" alt="Figure_1" src="https://github.com/user-attachments/assets/51a99914-03e0-4775-80ac-50f3170a189c" />
+
+<img width="640" height="480" alt="Figure_2" src="https://github.com/user-attachments/assets/5fff7d89-293b-4b69-a984-cf2d8bfcec83" />
+
 ## Reccomendations
 For infrastructure consultants working across these five countries, these findings suggest that Australia and New Zealand have effectively standardised their roundabout design, procurement and construction planning in those markets can assume standard designs as the default. In the US and UK, where 26% and 11% of roundabouts respectively, are non-standard, budgets should account for higher design variability, the additional $150,000–$400,000 per non-standard installation is a material planning consideration at scale.
 
