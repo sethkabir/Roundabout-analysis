@@ -21,7 +21,7 @@ A chi-square test of independence confirmed this association is statistically si
 
 <img width="640" height="480" alt="Figure_2" src="https://github.com/user-attachments/assets/5fff7d89-293b-4b69-a984-cf2d8bfcec83" />
 
-## Reccomendations
+## Recommendations
 For infrastructure consultants working across these five countries, these findings suggest that Australia and New Zealand have effectively standardised their roundabout design, procurement and construction planning in those markets can assume standard designs as the default. In the US and UK, where 26% and 11% of roundabouts, respectively, are non-standard, budgets should account for higher design variability, the additional $150,000–$400,000 per non-standard installation is a material planning consideration at scale.
 
 ## Software and Libraries involved
